@@ -50,10 +50,19 @@ header .logo{
  color: #fff
 }
 .logopic {
-  margin-top: 20px;
+  margin: 20px 20px;
   width: 40%;
 
 
+}
+.welcomepic {
+  margin-top: 20px;
+  width: 40%;
+  
+}
+.welcome {
+  text-align: center;
+  color: #fff;
 }
 
 header ul{
