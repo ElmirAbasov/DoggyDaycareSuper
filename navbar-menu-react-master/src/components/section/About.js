@@ -6,7 +6,7 @@ export class About extends Component {
     render() {
         return (
             <div className='container_about_us'>
-                <img src={Logo} />
+                <img className='logopic' src={Logo} />
                 <h2>About Us</h2>
                 <p>Two of our most common services are:
 
