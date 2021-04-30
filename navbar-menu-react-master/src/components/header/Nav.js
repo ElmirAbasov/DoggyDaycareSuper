@@ -16,7 +16,9 @@ export class Nav extends Component {
             <>
                 <ul className={toggle ? "toggle" : ""}>
                     <li><Link to="/">Home</Link></li>
-                    <li><Link to="/register">Register</Link></li>
+                    <li className="register_item">
+                    <a href="register" >Register</a>
+                        </li>
                     <li><Link to="/about">About</Link></li>
                     
                    

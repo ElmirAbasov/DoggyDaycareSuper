@@ -13,7 +13,9 @@ class App extends React.Component{
         <div className='Page'>
           <Header />
           <Section />
+          
         </div>
+        
       </Router>
     );
   };
