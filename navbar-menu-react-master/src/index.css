@@ -55,15 +55,20 @@ header .logo{
 
 
 }
-.welcomepic {
-  margin-top: 20px;
-  width: 40%;
-  
-}
-.welcome {
+
+.container_home h2 {
+  color: lightgray; 
   text-align: center;
-  color: #fff;
-}
+  margin-top: 10px
+  
+ }
+
+ .container_home p {
+text-align: center;
+margin-top: 5%;
+
+ }
+ 
 
 header ul{
   list-style: none;
